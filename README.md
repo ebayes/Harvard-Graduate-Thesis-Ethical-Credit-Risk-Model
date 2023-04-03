@@ -14,6 +14,3 @@ A repo containing code and paper for my Master's in Design Engineering (MDE) the
 		-Note, 'd_join_sequence_and_features.py' takes the longest to run.
 
 (Ignore the file 'scrap_code.py', it was used for testing and storing unused code)
-
-
-NB: [This repo](https://github.com/ebayes/HarvardCS182-EthicalCreditRiskModelReport) contains the written element of the project, entitled: *"Lost interest? Using artificial intelligence to predict if low-income households are at risk of meeting loan repayments"*. 
