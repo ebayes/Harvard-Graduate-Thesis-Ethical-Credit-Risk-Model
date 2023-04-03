@@ -1,6 +1,5 @@
-# Harvard CS182 (Artifical Intelligence) Final Project - Developing an Ethical Credit Risk Model  :robot:
-A repo with code for the final project of Harvard's CS182 (Artificial Intelligence) using artificial intelligence to predict if low-income households are at risk of meeting loan repayments, a collaborative project with [Cole Bateman](https://www.linkedin.com/in/cole-bateman/). *(Grade: 50/55)*  :bank:
-
+# "Lost interest? Using artificial intelligence to predict if low-income households are at risk of meeting loan repayments" (Harvard Master in Design Engineering Graduate Thesis)  :robot:
+A repo containing code and paper for my Master's in Design Engineering (MDE) thesis project which explored how machine learning can better predict if low-income households are at risk of meeting loan repayments. Acknowledgements: Professor [David C. Parkes](https://datascience.harvard.edu/people/david-c-parkes)) (advisor), [Cole Bateman](https://www.linkedin.com/in/cole-bateman/) (collaborator), and Professors [Milind Tambe](https://teamcore.seas.harvard.edu/people/milind-tambe) and [Boaz Barak](https://quantum.harvard.edu/boaz-barak) (CS182). Awarded the departmental thesis award.
 
 **Code Setup:**
 
